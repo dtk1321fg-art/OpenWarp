@@ -4,9 +4,9 @@ The OpenWarp Discord is the community hub for people who want to help turn the p
 
 ## Status
 
-**Discord invite:** coming soon
+**Discord invite:** https://discord.gg/z76f7zeMyF
 
-Create the server first, then replace this line with the permanent invite link.
+Join the server to help with paper summaries, hypotheses, math checks, experiment ideas, and community research coordination.
 
 ## Purpose
 
