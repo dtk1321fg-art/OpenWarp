@@ -2,6 +2,85 @@
 
 This is the starting literature map for OpenWarp. Each paper should eventually get its own one-page summary.
 
+## Traversable Wormholes and Entanglement-Based Mechanisms
+
+### Morris and Thorne — Wormholes in Spacetime and Their Use for Interstellar Travel
+
+**Paper:** Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity  
+**Authors:** Michael S. Morris and Kip S. Thorne  
+**Link:** https://pubs.aip.org/aapt/ajp/article-abstract/56/5/395/1037343/Wormholes-in-spacetime-and-their-use-for
+
+Why it matters:
+
+- Introduces the classic traversable wormhole framework.
+- Defines the redshift and shape-function approach used in the current OpenWarp toy model.
+- Makes the exotic-matter problem explicit.
+
+Summary needed:
+
+- What metric is proposed?
+- What traversability constraints are required?
+- Where does NEC violation appear?
+- What assumptions are made about exotic matter?
+
+### Gao, Jafferis, and Wall — Traversable Wormholes via a Double Trace Deformation
+
+**Paper:** Traversable Wormholes via a Double Trace Deformation  
+**Authors:** Ping Gao, Daniel Louis Jafferis, Aron C. Wall  
+**Link:** https://arxiv.org/abs/1608.05687
+
+Why it matters:
+
+- Shows a mechanism where coupling the two boundaries of an eternal black hole produces negative averaged null energy.
+- Gives a serious entanglement / quantum-information route to traversability.
+- Important because it does not look like a simple classical exotic-matter shell.
+
+Summary needed:
+
+- What is the double-trace deformation?
+- What supplies the negative averaged null energy?
+- Why does it not violate causality?
+- How dependent is the result on AdS/CFT assumptions?
+
+### Maldacena, Milekhin, and Popov — Traversable Wormholes in Four Dimensions
+
+**Paper:** Traversable wormholes in four dimensions  
+**Authors:** Juan Maldacena, Alexey Milekhin, Fedor Popov  
+**Link:** https://arxiv.org/abs/1807.04726
+
+Why it matters:
+
+- Gives a four-dimensional traversable wormhole construction.
+- Uses charged massless fermions to create a negative Casimir-like energy.
+- Directly relevant to OpenWarp's question of whether microscopic throats can be stabilized without macroscopic exotic matter.
+
+Summary needed:
+
+- What theory and fields are required?
+- How does the negative Casimir-like energy appear?
+- What size limits are required?
+- Does it allow matter traversal or mainly information transfer?
+- What makes it different from the Morris-Thorne toy model?
+
+### Freivogel, Fumagalli, and Tomašević — How Traversable Is a Traversable Wormhole?
+
+**Paper:** How traversable is a traversable wormhole?  
+**Authors:** Ben Freivogel, Alessandro Fumagalli, Marija Tomašević  
+**Link:** https://arxiv.org/abs/2606.12528
+
+Why it matters:
+
+- Studies low-frequency scattering in the Maldacena-Milekhin-Popov four-dimensional wormhole.
+- Helps distinguish "the throat exists" from "useful signals or matter can actually pass through."
+- Important for OpenWarp's information-transfer versus matter-transfer split.
+
+Summary needed:
+
+- Which probes traverse efficiently?
+- Which probes are reflected or trapped?
+- What does this imply for useful wormhole channels?
+- Does this strengthen or weaken the OpenWarp network idea?
+
 ## Warp Metrics and Theory
 
 ### Alcubierre — The Warp Drive
